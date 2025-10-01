@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <stly>
-      .second-section img {
+      .a{
   width: 40px;
   height: 40px;
 }   
