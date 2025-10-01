@@ -7,6 +7,7 @@
   width: 40px;
   height: 40px;
 }   
+  </style>
   </head>
 <body>
   <div style="display: flex;">
