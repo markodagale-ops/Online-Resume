@@ -2,6 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
+    <stly>
+      .second-section img {
+  width: 80px;
+  height: auto;
+}   
   </head>
 <body>
   <div style="display: flex;">
