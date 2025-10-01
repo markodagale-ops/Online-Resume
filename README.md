@@ -2,8 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <stly>
-      .a{
+    <style>
+    .second-section img{
   width: 40px;
   height: 40px;
 }   
