@@ -17,6 +17,7 @@
       <p>October 5 2038</p>
     </div>
     <div class="second-section" style="flex: 2; margin-left: 20px;">
+      <a href="https://ibb.co/1Jp11zBs"><img src="https://i.ibb.co/gFXNN4Qv/Screenshot-2025-10-01-211521.png" alt="Screenshot-2025-10-01-211521"></a>
       <h4><strong>EDUCATION</strong></h4>
       <p><strong>Batangas State University, Rizal Avenue and Governor Pablo Borbon Main II in Brgy. Alangilan. - Bachelors Degree</strong></p>
       <p>October 10 2030</p>
