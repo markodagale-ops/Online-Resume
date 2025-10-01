@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <stly>
       .second-section img {
-  width: 80px;
-  height: auto;
+  width: 40px;
+  height: 40px;
 }   
   </head>
 <body>
