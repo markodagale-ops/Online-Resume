@@ -12,21 +12,21 @@
 <body>
   <div style="display: flex;">
     <div class="first-section" style="flex: 1; margin-right: 20px;">
-      <center><h4><strong>EXPERIENCE</strong></h4></center>
-      <center><p><strong>Dell Technologies, Round Rock, Texas - Individual contributor</strong></p></center>
-      <center><p>October 2 2035 - PRESENT</p></center>
+     <h4><strong>EXPERIENCE</strong></h4>
+      <h3><p><strong>Dell Technologies, Round Rock, Texas - Individual contributor</strong></p></h3>
+      <p>October 2 2035 - PRESENT</p>
       <br>
-      <center><p><strong>DXC Technology, Intellectual Property Center Building, Upper Mckinley Hl, Taguig, 1630 Metro Manila - Individual contributor</strong></p>              </center>
-      <center><p>October 6 2045</p></center>
+      <h3><p><strong>DXC Technology, Intellectual Property Center Building, Upper Mckinley Hl, Taguig, 1630 Metro Manila - Individual contributor</strong></p></h3>
+      <p>October 6 2045</p>
       <br>
-      <center><p><strong>Cognitive Clarity Center, 10260 SW Greenburg Rd 4th floor, Prtland, OR 97223 - individual contributor</strong></p></center>
-      <center><p>October 5 2038</p></center>
-    <center><h4><strong>EDUCATION</strong></h4></center>
-      <center><p><strong>Batangas State University, Rizal Avenue and Governor Pablo Borbon Main II in Brgy. Alangilan. - Bachelors Degree</strong></p></center>
-      <center><p>October 10 2030</p></center>
+      <h3><p><strong>Cognitive Clarity Center, 10260 SW Greenburg Rd 4th floor, Prtland, OR 97223 - individual contributor</strong></p></h3>
+      <p>October 5 2038</p>
+    <h3><strong>EDUCATION</strong></h3>
+      <h3><p><strong>Batangas State University, Rizal Avenue and Governor Pablo Borbon Main II in Brgy. Alangilan. - Bachelors Degree</strong></p></h3>
+      <p>October 10 2030</p>
     </div>
     <div class="second-section" style="flex: 2; margin-left: 20px;">
-      <center><a href="https://ibb.co/1Jp11zBs"><img src="https://i.ibb.co/gFXNN4Qv/Screenshot-2025-10-01-211521.png" alt="Screenshot-2025-10-01-211521"></a></center>
+     <a href="https://ibb.co/1Jp11zBs"><img src="https://i.ibb.co/gFXNN4Qv/Screenshot-2025-10-01-211521.png" alt="Screenshot-2025-10-01-211521"></a>
     </div>
   </div>
 </body>
